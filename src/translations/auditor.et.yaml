@@ -7,6 +7,7 @@ audit:
     most_recent: (hiljuti lisatud eespool)
     entry_title: Vaatle kõiki selle transaktsiooni toiminguid
     property: Rekvisiit
+    extra_field: Extra rekvisiit
     old_value: Vana väärtus
     new_value: Uus väärtus
     transaction: Transaktsioon

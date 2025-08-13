@@ -7,8 +7,10 @@ audit:
     most_recent: (самый последний первый)
     entry_title: Просмотреть все операции в рамках данной транзакции
     property: Атрибут
+    extra_field: дополнительный Атрибут
     old_value: Старое значение
     new_value: Новое значение
+    value: значение
     transaction: Транзакция
     entity_per_entity: (сущность на сущность)
     operations_count: '%count% действий'
